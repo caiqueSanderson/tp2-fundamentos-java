@@ -1,4 +1,4 @@
-# Projeto de Fundamentos em Java
+# Fundamentos em Java
 
 Este repositório contém diversos exercícios de programação em Java, abordando conceitos fundamentais da linguagem. Os exercícios são organizados em diferentes partes, cobrindo entrada de usuário, controle de fluxo e estruturas de repetição.
 
@@ -6,10 +6,11 @@ Este repositório contém diversos exercícios de programação em Java, abordan
 
 O projeto está organizado da seguinte forma:
 
-- **tp2-fundamentos-java/**: Contém os exercícios relacionados aos fundamentos de Java.
-- **Exercicios/**: Pasta contendo todas as soluções para os exercícios propostos.
+- **src/**: Contém as pastas com os exercícios relacionados aos fundamentos de Java.
+- **TP/**: Contém o conteúdo referente a um TP em especifico.
+- **Exercicios/**: Pasta ou arquivos contendo todas as soluções para os exercícios propostos.
 
-## Temas Abordados
+## Temas Abordados no TP2
 
 ### Parte 1: Entrada de Dados
 1. **Cadastro de Usuário Completo** - Captura e comparação de strings.
@@ -37,11 +38,11 @@ O projeto está organizado da seguinte forma:
 ## Como Executar os Exercícios
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/fundamentos-java.git
+   git clone https://github.com/caiqueSanderson/tps-fundamentos-java.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd fundamentos-java
+   cd tps-fundamentos-java
    ```
 3. Compile e execute um dos exercícios, por exemplo:
    ```bash
